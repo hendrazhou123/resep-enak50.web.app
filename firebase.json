@@ -1,0 +1,12 @@
+{
+  "hosting": {
+  "site": "resep-enak50",
+  
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
